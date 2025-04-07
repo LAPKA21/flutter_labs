@@ -1,4 +1,4 @@
-import 'Result.dart';
+import 'SecondScreen.dart';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart'; // Импорт для inputFormatters

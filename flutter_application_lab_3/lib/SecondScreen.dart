@@ -16,7 +16,7 @@ class SecondScreen extends StatelessWidget {
         title: const Text('Результат'),
       ),
       body: Column(
-         mainAxisAlignment: MainAxisAlignment.center, //Цетрирование
+         mainAxisAlignment: MainAxisAlignment.center, //Центрирование
         children: <Widget>[ 
           Padding(padding: EdgeInsets.all(16.0), child:  Text(
           'Сумма $numA + $numB = $sum',
