@@ -20,7 +20,7 @@ class _FirstScreenState extends State<FirstScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Лабораторная работа №3 Богушевич Д.А. ВМК-22 вар(2)'),
+        title: const Text('Лабораторная работа №5 Богушевич Д.А. ВМК-22 вар(2)'),
         leading: IconButton(
           icon: const Icon(Icons.history),
           onPressed: () {
